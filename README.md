@@ -6,7 +6,8 @@ View a list of tasks with their titles, descriptions, and completion statuses.
 Add new tasks.
 Could you edit the completion status of existing tasks?
 The application is built using React.js, and the Redux Toolkit is used for state management. It communicates with the JSONPlaceholder API to fetch and update task data.
-
+<h2>LINK:</h2>
+https://to-do-list-omega-liard-94.vercel.app/
 
 <h2>Features</h2>
 Home Page: Displays a list of tasks.
