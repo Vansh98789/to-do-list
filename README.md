@@ -1,36 +1,35 @@
 <h1>To do List App </h1>
 
-Overview
-This is a simple To do List web application that allows users to:
+<h2>Overview</h2>
+This is a simple To-do-List web application that allows users to:
 View a list of tasks with their titles, descriptions, and completion statuses.
 Add new tasks.
-Edit the completion status of existing tasks.
-The application is built using React.js , and Redux Toolkit is used for state management. The app communicates with the JSONPlaceholder API to fetch and update task data.
+Could you edit the completion status of existing tasks?
+The application is built using React.js, and the Redux Toolkit is used for state management. It communicates with the JSONPlaceholder API to fetch and update task data.
 
 
-Features
+<h2>Features</h2>
 Home Page: Displays a list of tasks.
 Add Task Page: Allows the user to create a new task.
-Edit Task Page: Allows the user to update a task's completion status.
+Edit Task Page: The user can update a task's completion status.
 
 
-Technologies Used
+<h2>Technologies Used</h2>
 React.js 
-Redux Toolkit  for state management
+Redux Toolkit  for State Management
 JSONPlaceholder API for task data (via REST API calls)
 CSS/Styled Components 
 
-
-Installation & Setup
+<h2>Installation & Setup</h2>
 Node.js and npm  must be installed on your machine.
 Clone the repository
 git clone ==> https://github.com/Vansh98789/to-do-list.git
 cd to-do-list
 
-Install Dependencies
+<h2>Install Dependencies</h2>
 Using npm:
 Copy code
 npm install
 
-then run via :
+<h2>run via :</h2>
 npm start
